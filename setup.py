@@ -17,8 +17,6 @@ setup(
         'requests',
         'pandas'
     ],
-    author="ereese",
-    author_email="ereese2010@gmail.com",
     description="A utility module for retrieving incidents from ServiceNow",
     keywords="servicenow incidents utility",
     license="MIT",
