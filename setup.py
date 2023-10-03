@@ -7,11 +7,11 @@ setup(
     name="servicenow-utils",
     use_scm_version=True,
     setup_requires=['setuptools_scm'],
-    
+    url="https://github.com/reese-001/servicenow-utils",
     long_description=(here / "README.md").read_text(encoding="utf-8"),
     long_description_content_type="text/markdown",
     include_package_data=True,
-    version="0.19",
+    version="0.21",
     packages=find_packages(),
     install_requires=[
         'requests',
